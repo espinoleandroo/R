@@ -1,8 +1,10 @@
 # ------------------------------------------------------------------------------------
 # Tema de clasificadores
 # Predecir Perdida de Clientes con Arbol de Decision
-install.packages("C50")
-install.packages("rpart")
+#install.packages("C50")
+#install.packages("rpart")
+#install.packages("rpart.plot")
+#install.packages("modeldata")
 rm(list = ls())
 # ---------------------------------------------------------------------------
 # PASO 1:   Carga Package y Set de datos
